@@ -1,0 +1,50 @@
+1)
+git init
+Initialized empty Git repository in.....
+
+2)
+git config --global user.name 'Datta-Khade'
+
+
+3)
+git config --global user.email
+'dattakhade77@gmail.com'
+
+4)
+git add index.html
+git add *.txt
+git add .    [staging area]==>status,pull,commit,push
+
+5)
+git status
+
+6)
+git remote add origin
+https://github.com/Datta-Khade/loanprocess.git
+
+7)<---change directory--->
+	1.git fetch
+	2.git checkout 'main'  ----'repository name or branch name'
+
+8)
+git pull origin main
+
+9)
+git commit -m "message"
+
+10)
+$ git push -u origin main
+
+
+
+
+git branch -M main   ---chnge the directory
+
+
+
+
+
+
+
+$ git fetch
+$ git checkout 'main'
