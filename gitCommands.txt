@@ -36,15 +36,3 @@ git commit -m "message"
 $ git push -u origin main
 
 
-
-
-git branch -M main   ---chnge the directory
-
-
-
-
-
-
-
-$ git fetch
-$ git checkout 'main'
