@@ -1,0 +1,9 @@
+open vs code
+go to view-->coomand pallete---> search==Git: clone
+copy github url and paste here
+create local folder in your pc
+
+
+go to source control--> add comment 
+click on 3dots-->push-->enter username password
+
